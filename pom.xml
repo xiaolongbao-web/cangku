@@ -122,12 +122,6 @@
             <version>${spring.version}</version>
         </dependency>
 
-        <!-- https://mvnrepository.com/artifact/com.alibaba/druid -->
-
-        <!--返回JSON字符串的支持-->
-
-        <!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations -->
-
 
         <!--上传文件的jar包-->
         <dependency>
